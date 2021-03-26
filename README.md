@@ -1,7 +1,7 @@
 # ObjectDetection_iOS
 Object detection on iOS mobile device with Vision and Core ML(mlmodel)
 ## Shibuya Scramble Crossing Live Camera
-Test on i
+Test on iphone 8  
 ![](https://github.com/popCain/ObjectDetection_iOS/blob/main/image/objectDetection.gif)
 ## Core ML Framework
 ![](https://github.com/popCain/ObjectDetection_iOS/blob/main/image/coreml.png)  
