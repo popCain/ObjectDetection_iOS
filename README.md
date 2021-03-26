@@ -10,5 +10,8 @@ Core ML supports Vision for analyzing images, Natural Language for processing te
 * [Models from apple research community](https://developer.apple.com/machine-learning/models/)
 * [Models trained on Create ML](https://developer.apple.com/machine-learning/create-ml/)
 * [Models transformed from tensorflow format](https://github.com/popCain/TFtoCoreML/tree/main/mlmodels_IOU0.4_Conf0.6)
-## Coding Process
-[Detection Reference](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture)
+## Coding Process（[Detection Reference](https://developer.apple.com/documentation/vision/recognizing_objects_in_live_capture)）
+1. Set Up Live Capture
+2. Initialize Request(Make a request)
+3. VNImageRequestHandler(Handle the request)
+4. CompletionHandler(Process the results)
